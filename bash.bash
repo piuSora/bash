@@ -1,1 +1,2 @@
-echo goodtesting
+#!/bin/bash
+echo "goodtesting"
