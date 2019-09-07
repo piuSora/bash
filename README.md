@@ -1,5 +1,2 @@
 # bash
 testing
-
-GOOD
-sdf
